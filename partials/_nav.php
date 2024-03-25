@@ -22,7 +22,7 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
               <a class="nav-link" href="/PHP/project3/login.php">Login</a>
            </li>
            <li class="nav-item">
-              <a class="nav-link" href="/PHP/project3/signup.php">SignUp</a>
+              <a class="nav-link" href="/PHP/project3/index.php">SignUp</a>
            </li>';
         }
       echo '</ul>
